@@ -65,7 +65,7 @@ body{
 
 .center-div-right{
     
-    background-image:url('images/image-header-desktop.jpg');
+    background-image:url('image-header-desktop.jpg');
     background-size: contain;
     filter:grayscale(0.3);
     height: 80%;
@@ -137,7 +137,7 @@ body{
 
     .center-div-right{
     
-        background-image:url('images/image-header-mobile.jpg');
+        background-image:url('image-header-mobile.jpg');
         background-size: contain;
         background-repeat: no-repeat;
         margin-bottom: 0px;
